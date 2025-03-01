@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+### I'm Dan.
+
+I'm a senior software engineer at [Nearform](https://github.com/nearform)
+
 <!--
 **djm158/djm158** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
