@@ -2,7 +2,7 @@
 
 ### I'm Dan.
 
-I'm a senior software engineer at [Nearform](https://github.com/nearform)
+I'm a software engineer at [Commsor](https://github.com/commsor)
 
 <!--
 **djm158/djm158** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
